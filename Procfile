@@ -1,1 +1,1 @@
-web: gunicorn folder1/api:app
+web: gunicorn api:app
